@@ -26,8 +26,7 @@ def _gen_subclasses(cls):
 
 def _gen_properties(cls):
     """
-    Generate property definitions for every
-    Get proper
+    Generate property definitions for every artist getter.
     """
     for attr in dir(cls):
         obj = getattr(cls, attr)
