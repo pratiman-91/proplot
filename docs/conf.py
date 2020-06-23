@@ -71,8 +71,7 @@ extensions = [
     'sphinx.ext.autosummary',  # autosummary directive
     'sphinxext.custom_roles',  # local extension
     'sphinx_copybutton',
-    'sphinx_automodapi.automodapi',  # see: https://github.com/lukelbd/sphinx-automodapi/tree/proplot-mods # noqa
-    'nbsphinx',
+    # 'nbsphinx',
 ]
 
 extlinks = {

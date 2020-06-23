@@ -26,8 +26,7 @@ dependencies:
     - pytest-sugar
     - sphinx>=3.0
     - sphinx-copybutton
-    - sphinx_rtd_theme==0.4.3
+    - sphinx_rtd_theme==0.5.0
     - jupytext
     - nbsphinx
-    - git+https://github.com/lukelbd/sphinx-automodapi@v0.8.proplot-mods
     - pyqt5
