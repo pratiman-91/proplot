@@ -235,6 +235,7 @@ default_role = 'py:obj'
 # a list of builtin themes.
 
 # Use modified RTD theme with overrides in custom.css and custom.js
+html4_writer = True
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'logo_only': True,
